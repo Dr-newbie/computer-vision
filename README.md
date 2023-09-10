@@ -108,6 +108,7 @@ Here is the results on DSB2018 dataset (96x96) with LovaszHingeLoss.
 | Nested U-Net                    |  0.842  |**0.354**|
 | Nested U-Net w/ Deepsupervision |**0.843**|  0.362  |
 
+![스크린샷 2023-09-11 오전 1 11 43](https://github.com/Dr-newbie/computer-vision/assets/78359087/9d8af181-4db0-4186-a14c-0628244154c0)
 
 
 
